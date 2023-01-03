@@ -1,0 +1,24 @@
+/* Alireza Rahimi-40131861-WEBHW */
+*{
+    margin: 0px;
+}
+
+html{
+    height: 100%;
+    background: linear-gradient(#0046ae, #9198e5);
+}
+
+div{
+    height: 450px;
+    width: 270px;
+    margin: 0px auto;
+    margin-top: 100px;
+    background: linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0, 0.4);
+}
+
+
+div:hover{
+   background: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
+}
